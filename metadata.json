@@ -1,0 +1,6 @@
+{
+  "name": "Task Management Application",
+  "description": "A production-ready full-stack Task Management Application with intuitive modern UI, secure authentication, real-time updates, and an elegant FastAPI Python backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
